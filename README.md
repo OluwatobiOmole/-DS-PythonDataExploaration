@@ -1,4 +1,5 @@
-# IT Salary Survey Visualization Project [View the Notebook](IT Salary Survey Visualisation.ipynb)
+# IT Salary Survey Visualization Project 
+[View the Notebook](IT Salary Survey Visualisation.ipynb)
 
 ## Overview
 
